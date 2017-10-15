@@ -1,0 +1,12 @@
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\bin\Debug\RBF.exe.config
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\bin\Debug\RBF.exe
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\bin\Debug\RBF.pdb
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.csprojResolveAssemblyReference.cache
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.Form1.resources
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.Properties.Resources.resources
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.csproj.GenerateResource.Cache
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.exe
+c:\users\atai\documents\visual studio 2015\Projects\RBF\RBF\obj\Debug\RBF.pdb
+D:\VS2015_project\RBF\RBF\bin\Debug\RBF.exe.config
+D:\VS2015_project\RBF\RBF\obj\Debug\RBF.exe
+D:\VS2015_project\RBF\RBF\obj\Debug\RBF.pdb
